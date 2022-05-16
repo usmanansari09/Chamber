@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547272978639",
+    "project_id": "chamber-2bc31",
+    "storage_bucket": "chamber-2bc31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547272978639:android:b41cb2a3e171f0dd6dc7ba",
+        "android_client_info": {
+          "package_name": "com.the_chamber_30129"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547272978639-bb25ho9in98n2ermk4aj3gsf21ashp2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFgAMgc4QqQwEjCsUBCSZhhsHwxKbDKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547272978639-bb25ho9in98n2ermk4aj3gsf21ashp2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
